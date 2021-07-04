@@ -1,6 +1,6 @@
-# Bridged Packages Repository
+# Grida Packages Repository
 
-Open designs, extensions, plugins and more for Bridged
+Open designs, extensions, plugins, Cloud components and more for Grida
 
 ## Submitting your own
 
